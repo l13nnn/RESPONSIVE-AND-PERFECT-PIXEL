@@ -35,7 +35,7 @@
   color: #FFFFFF;
   font-family: 'Inter', sans-serif;
   font-weight: 700;
-  font-size: 1.302vw;
+  font-size: 2vw;
   width: 17.656vw;
 }
 
@@ -52,6 +52,7 @@
   height: 29.479vw;
   position: relative;
   top: 4vw;
+  left: 5vw;
 }
 
 .text .bold {
