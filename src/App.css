@@ -58,3 +58,68 @@
 .text .bold {
   color: #FFFFFF;
 }
+
+.background-mb {
+  background-color: #1F1E1E;
+  width: 100vw;
+  height: 100vh;
+}
+
+.background-mb-1 {
+  background-color: #000000;
+  border-radius: 20px;
+  width: 83.333vw;
+  height: 152.778vw;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-mb {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4vw;
+  margin-top: 8vw;
+  margin-left: 8vw;
+}
+
+.text-mb h2 {
+  color: #86868B;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 2.778vw;
+}
+
+.text-mb h1 {
+  color: #FFFFFF;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 5.833vw;
+}
+
+.text-mb p {
+  color: #86868B;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 2.5vw;
+}
+
+.text-mb .bold-mb {
+  color: #FFFFFF;
+}
+
+.image-mb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-mb img {
+  width: 54.861vw;
+  position: relative;
+  top: 21.5vw;
+  bottom: 0;
+  left: 5vw;
+}
